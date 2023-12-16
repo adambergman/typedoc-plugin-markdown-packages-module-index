@@ -1,0 +1,11 @@
+{
+  "name": "@typedoc/foo",
+  "version": "0.0.2",
+  "exports": "./dist/index.js",
+  "dependencies": {
+    "@typedoc/bar": "0.0.1"
+  },
+  "scripts": {
+    "docs": "typedoc --out docs"
+  }
+}

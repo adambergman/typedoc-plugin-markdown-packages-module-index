@@ -1,0 +1,10 @@
+{
+  "entryPoints": ["packages/*"],
+  "name": "Packages Example",
+  "entryPointStrategy": "packages",
+  "includeVersion": false,
+  "outputFileStrategy": "modules"
+
+  // Potentially useful for debugging
+  // "logLevel": "Verbose"
+}
